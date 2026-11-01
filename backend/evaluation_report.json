@@ -1,0 +1,11 @@
+{
+  "total_runs": 3,
+  "successful_analysis_rate": 100.0,
+  "code_execution_success_rate": 100.0,
+  "repair_success_rate": 100.0,
+  "average_execution_time_seconds": 1.29,
+  "average_number_of_retries": 0.0,
+  "total_retries_recorded": 0,
+  "visualization_generation_success_rate": 100.0,
+  "report_generation_success_rate": 100.0
+}
